@@ -4,7 +4,13 @@
     * Defined a new class named `Record`.
     * Added the @dataclass decorator immediately before the Record class definition.
     * Added attributes named sender and receiver of type str and amount of type float
-4. Modified the Existing Block Data Class to Store Record Data: Renamed the data attribute in the Block class to record
-6. Add Relevant User Inputs to the Streamlit Interface: Coded additional input areas for the user interface of theStreamlit application. Created these input areas to capture the sender, receiver, and amount for each transaction that is stored in the Block record. 
-8. Test the PyChain Ledger by Storing Records: Tested the complete PyChain ledger and user interface by running your Streamlit application and storing some mined blocks in the PyChain ledger.
-For reference, image and screen recording attached: 
+3. Modified the Existing Block Data Class to Store Record Data: Renamed the data attribute in the Block class to record
+4. Add Relevant User Inputs to the Streamlit Interface: Coded additional input areas for the user interface of theStreamlit application. Created these input areas to capture the sender, receiver, and amount for each transaction that is stored in the Block record. 
+5. Test the PyChain Ledger by Storing Records: Tested the complete PyChain ledger and user interface by running your Streamlit application and storing some mined blocks in the PyChain ledger.
+6. For reference, screen shot of the streamlit deployment: 
+![image](https://github.com/nhc12/Blockchain/blob/main/PyChain%20Screenshot.jpg)
+7. Attachmnents:
+    * Python file for Streamlit deployment
+    * Screenshot of Streamlit deployment
+    * Screen recording of streamlit deployment
+    
