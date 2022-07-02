@@ -8,7 +8,7 @@
 4. Add Relevant User Inputs to the Streamlit Interface: Coded additional input areas for the user interface of theStreamlit application. Created these input areas to capture the sender, receiver, and amount for each transaction that is stored in the Block record. 
 5. Test the PyChain Ledger by Storing Records: Tested the complete PyChain ledger and user interface by running your Streamlit application and storing some mined blocks in the PyChain ledger.
 6. Attachmnents:
-    * Starter Code
+    * Starter Code (py file)
     * Python file for Streamlit deployment
     * Screen recording of streamlit deployment
     * Screenshot of Streamlit deployment:
