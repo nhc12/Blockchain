@@ -10,7 +10,7 @@
 6. Attachmnents:
     * Python file for Streamlit deployment
     * Screen recording of streamlit deployment
-    * Screenshot of Streamlit deployment
+    * Screenshot of Streamlit deployment:
 ![image](https://github.com/nhc12/Blockchain/blob/main/PyChain%20Screenshot.jpg)
 
     
